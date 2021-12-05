@@ -1,1 +1,2 @@
-# c26-project
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
